@@ -1,0 +1,18 @@
+.commentContainer{
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px 15px;
+    /* direction: rtl; */
+  
+}
+
+.commentContainer b{
+  color: rgba(41, 98, 231, 0.828);
+}
+.commentInfo{
+    display: flex;
+    justify-content: space-between;
+    /* direction: ltr; */
+    color: gray;
+}
